@@ -1,3 +1,4 @@
+'''text
 analyse-ventes-app/
 │
 ├── Data/
@@ -23,3 +24,4 @@ analyse-ventes-app/
 ├── app.py/                      # Equivalent d'un main
 ├── streamlit_app.py/            # Script de la structure complète de l'application streamlit
 └── Guide d'utilisation App_analyse_ventes.pdf # Guide d'utilisation pdf
+'''
